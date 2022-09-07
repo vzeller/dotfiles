@@ -54,4 +54,3 @@ let g:NERDTreeDirArrowExpandable="+"
 let g:NERDTreeDirArrowCollapsible="~"
 
 let g:airline_powerline_fonts = 1
-
